@@ -1,0 +1,472 @@
+[
+  {
+    "path": "/past-years/jee/mht-cet/physics/units-and-measurement-and-dimensions",
+    "subject": "physics",
+    "slug": "units-and-measurement-and-dimensions"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/vector-algebra",
+    "subject": "physics",
+    "slug": "vector-algebra"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/motion",
+    "subject": "physics",
+    "slug": "motion"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/laws-of-motion",
+    "subject": "physics",
+    "slug": "laws-of-motion"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/circular-motion",
+    "subject": "physics",
+    "slug": "circular-motion"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/work-energy-and-power",
+    "subject": "physics",
+    "slug": "work-energy-and-power"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/center-of-mass",
+    "subject": "physics",
+    "slug": "center-of-mass"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/rotational-motion",
+    "subject": "physics",
+    "slug": "rotational-motion"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/gravitation",
+    "subject": "physics",
+    "slug": "gravitation"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/simple-harmonic-motion",
+    "subject": "physics",
+    "slug": "simple-harmonic-motion"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/fluid-mechanics",
+    "subject": "physics",
+    "slug": "fluid-mechanics"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/elasticity",
+    "subject": "physics",
+    "slug": "elasticity"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/waves",
+    "subject": "physics",
+    "slug": "waves"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/heat-and-thermodynamics",
+    "subject": "physics",
+    "slug": "heat-and-thermodynamics"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/ray-optics",
+    "subject": "physics",
+    "slug": "ray-optics"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/wave-optics",
+    "subject": "physics",
+    "slug": "wave-optics"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/electrostatics",
+    "subject": "physics",
+    "slug": "electrostatics"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/current-electricity",
+    "subject": "physics",
+    "slug": "current-electricity"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/capacitor",
+    "subject": "physics",
+    "slug": "capacitor"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/moving-charges-and-magnetism",
+    "subject": "physics",
+    "slug": "moving-charges-and-magnetism"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/magnetism-and-matter",
+    "subject": "physics",
+    "slug": "magnetism-and-matter"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/electromagnetic-waves",
+    "subject": "physics",
+    "slug": "electromagnetic-waves"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/electromagnetic-induction",
+    "subject": "physics",
+    "slug": "electromagnetic-induction"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/alternating-current",
+    "subject": "physics",
+    "slug": "alternating-current"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/atoms-and-nuclei",
+    "subject": "physics",
+    "slug": "atoms-and-nuclei"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/dual-nature-of-radiation",
+    "subject": "physics",
+    "slug": "dual-nature-of-radiation"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/semiconductor-devices-and-logic-gates",
+    "subject": "physics",
+    "slug": "semiconductor-devices-and-logic-gates"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/physics/communication-systems",
+    "subject": "physics",
+    "slug": "communication-systems"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/some-basic-concepts-of-chemistry",
+    "subject": "chemistry",
+    "slug": "some-basic-concepts-of-chemistry"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/atomic-structure",
+    "subject": "chemistry",
+    "slug": "atomic-structure"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/states-of-matter",
+    "subject": "chemistry",
+    "slug": "states-of-matter"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/thermodynamics",
+    "subject": "chemistry",
+    "slug": "thermodynamics"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/chemical-equilibrium",
+    "subject": "chemistry",
+    "slug": "chemical-equilibrium"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/ionic-equilibrum",
+    "subject": "chemistry",
+    "slug": "ionic-equilibrum"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/liquid-solution",
+    "subject": "chemistry",
+    "slug": "liquid-solution"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/redox-reactions",
+    "subject": "chemistry",
+    "slug": "redox-reactions"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/surface-chemistry",
+    "subject": "chemistry",
+    "slug": "surface-chemistry"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/solid-state",
+    "subject": "chemistry",
+    "slug": "solid-state"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/electrochemistry",
+    "subject": "chemistry",
+    "slug": "electrochemistry"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/chemical-kinetics",
+    "subject": "chemistry",
+    "slug": "chemical-kinetics"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/nuclear-chemistry",
+    "subject": "chemistry",
+    "slug": "nuclear-chemistry"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/periodic-table-and-periodicity",
+    "subject": "chemistry",
+    "slug": "periodic-table-and-periodicity"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/chemical-bonding-and-molecular-structure",
+    "subject": "chemistry",
+    "slug": "chemical-bonding-and-molecular-structure"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/metallurgy",
+    "subject": "chemistry",
+    "slug": "metallurgy"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/hydrogen-and-its-compounds",
+    "subject": "chemistry",
+    "slug": "hydrogen-and-its-compounds"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/s-block-elements",
+    "subject": "chemistry",
+    "slug": "s-block-elements"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/p-block-elements",
+    "subject": "chemistry",
+    "slug": "p-block-elements"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/d-and-f-block-elements",
+    "subject": "chemistry",
+    "slug": "d-and-f-block-elements"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/coordination-compounds",
+    "subject": "chemistry",
+    "slug": "coordination-compounds"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/environmental-chemistry",
+    "subject": "chemistry",
+    "slug": "environmental-chemistry"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/iupac-nomenclature",
+    "subject": "chemistry",
+    "slug": "iupac-nomenclature"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/general-organic-chemistry",
+    "subject": "chemistry",
+    "slug": "general-organic-chemistry"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/isomerism",
+    "subject": "chemistry",
+    "slug": "isomerism"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/hydrocarbons",
+    "subject": "chemistry",
+    "slug": "hydrocarbons"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/haloalkanes-and-haloarenes",
+    "subject": "chemistry",
+    "slug": "haloalkanes-and-haloarenes"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/alcohol-phenols-and-ethers",
+    "subject": "chemistry",
+    "slug": "alcohol-phenols-and-ethers"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/aldehyde-and-ketone",
+    "subject": "chemistry",
+    "slug": "aldehyde-and-ketone"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/carboxylic-acids-and-its-derivatives",
+    "subject": "chemistry",
+    "slug": "carboxylic-acids-and-its-derivatives"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/compounds-containing-nitrogen",
+    "subject": "chemistry",
+    "slug": "compounds-containing-nitrogen"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/polymers",
+    "subject": "chemistry",
+    "slug": "polymers"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/biomolecules",
+    "subject": "chemistry",
+    "slug": "biomolecules"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/chemistry-in-everyday-life",
+    "subject": "chemistry",
+    "slug": "chemistry-in-everyday-life"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/chemistry/practical-organic-chemistry",
+    "subject": "chemistry",
+    "slug": "practical-organic-chemistry"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/sets-and-relations",
+    "subject": "mathematics",
+    "slug": "sets-and-relations"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/logarithms",
+    "subject": "mathematics",
+    "slug": "logarithms"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/quadratic-equations",
+    "subject": "mathematics",
+    "slug": "quadratic-equations"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/sequences-and-series",
+    "subject": "mathematics",
+    "slug": "sequences-and-series"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/binomial-theorem",
+    "subject": "mathematics",
+    "slug": "binomial-theorem"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/permutations-and-combinations",
+    "subject": "mathematics",
+    "slug": "permutations-and-combinations"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/probability",
+    "subject": "mathematics",
+    "slug": "probability"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/vector-algebra",
+    "subject": "mathematics",
+    "slug": "vector-algebra"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/three-dimensional-geometry",
+    "subject": "mathematics",
+    "slug": "three-dimensional-geometry"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/matrices-and-determinants",
+    "subject": "mathematics",
+    "slug": "matrices-and-determinants"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/statistics",
+    "subject": "mathematics",
+    "slug": "statistics"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/mathematical-reasoning",
+    "subject": "mathematics",
+    "slug": "mathematical-reasoning"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/linear-programming",
+    "subject": "mathematics",
+    "slug": "linear-programming"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/complex-numbers",
+    "subject": "mathematics",
+    "slug": "complex-numbers"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/trigonometric-ratios-and-identities",
+    "subject": "mathematics",
+    "slug": "trigonometric-ratios-and-identities"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/trigonometric-equations",
+    "subject": "mathematics",
+    "slug": "trigonometric-equations"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/inverse-trigonometric-functions",
+    "subject": "mathematics",
+    "slug": "inverse-trigonometric-functions"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/properties-of-triangles",
+    "subject": "mathematics",
+    "slug": "properties-of-triangles"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/functions",
+    "subject": "mathematics",
+    "slug": "functions"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/differentiation",
+    "subject": "mathematics",
+    "slug": "differentiation"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/limits-continuity-and-differentiability",
+    "subject": "mathematics",
+    "slug": "limits-continuity-and-differentiability"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/differential-equations",
+    "subject": "mathematics",
+    "slug": "differential-equations"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/application-of-derivatives",
+    "subject": "mathematics",
+    "slug": "application-of-derivatives"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/definite-integration",
+    "subject": "mathematics",
+    "slug": "definite-integration"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/area-under-the-curves",
+    "subject": "mathematics",
+    "slug": "area-under-the-curves"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/indefinite-integration",
+    "subject": "mathematics",
+    "slug": "indefinite-integration"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/straight-lines-and-pair-of-straight-lines",
+    "subject": "mathematics",
+    "slug": "straight-lines-and-pair-of-straight-lines"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/circle",
+    "subject": "mathematics",
+    "slug": "circle"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/parabola",
+    "subject": "mathematics",
+    "slug": "parabola"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/hyperbola",
+    "subject": "mathematics",
+    "slug": "hyperbola"
+  },
+  {
+    "path": "/past-years/jee/mht-cet/mathematics/ellipse",
+    "subject": "mathematics",
+    "slug": "ellipse"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "MHT CET 2022–2026 PYQ Analytics & Preparation",
+  "description": "Comprehensive 5-year previous year question (PYQ) frequency analysis, chapter-wise topic importance rankings, top 20 high-yield subtopics, and interactive topic-wise quizzes for MHT CET PCM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
